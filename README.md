@@ -4,12 +4,11 @@
 Hello everyone, I’m Yuan Yizhe, a PhD student at Shanghai Jiao Tong University. I’m currently working on research and entrepreneurial projects in medical AI. Thank you for your continued interest in nature-skill. If you have any requests, feel free to open an issue. If we find the request meaningful and feasible, we’ll do our best to implement it. We also welcome PRs, but please make sure to follow the submission format described later in the README so that we can review and merge them more efficiently.
 
 ## 📢 课题组诚招“医学 + AI”实习生
-
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="34%" valign="top" align="center" style="border: none; background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
       <span style="font-size: 14px; color: #666;">微信群聊</span><br>
-      <img src="https://github.com/user-attachments/assets/67d15f2d-13fc-44a9-a0c3-0af534b05c02" width="100%" style="max-width:160px; margin-top:15px; border: 1px solid #eee;">
+      <img src="https://github.com/user-attachments/assets/b5c8a2f1-9b80-4b2b-b606-961c79d513da" width="100%" style="max-width:160px; margin-top:15px; border: 1px solid #eee;">
       <div style="margin-top:10px; font-size: 13px; color: #666;">答疑交流群！进群记得12小时内备注</div>
     </td>
     <td width="66%" valign="top" style="border: none; line-height: 1.6;">
